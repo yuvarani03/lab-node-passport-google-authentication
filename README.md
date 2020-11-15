@@ -21,7 +21,7 @@ Whenever you create a first significant change, you should make your first commi
 
 In the end of this document, you will find guidelines on how to submit the exercise.
 
-[Reference Link:](http://www.passportjs.org/packages/passport-google-oauth2/)
+[Reference Link:](http://www.passportjs.org/packages/passport-google-oauth2/)http://www.passportjs.org/packages/passport-google-oauth2
 
 ### PROGRESSION 1 | REACT LOGIN AND SIGNUP FORM
 Your task in this progression is to create a signup and sign in form in react. use `npx create-react-app` to create a react app. The sign up contains the following 

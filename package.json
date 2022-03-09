@@ -1,0 +1,29 @@
+{
+  "name": "lab-node-passport-google-authentication",
+  "version": "1.0.0",
+  "description": "![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuvarani03/lab-node-passport-google-authentication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuvarani03/lab-node-passport-google-authentication/issues"
+  },
+  "homepage": "https://github.com/yuvarani03/lab-node-passport-google-authentication#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "passport": "^0.5.2",
+    "passport-google-oauth2": "^0.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
